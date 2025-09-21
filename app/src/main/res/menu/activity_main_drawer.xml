@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/listFragment"
+            android:title="Coffee List"
+            android:icon="@android:drawable/ic_menu_view"/>
+        <item android:id="@+id/favoritesFragment"
+            android:title="Favorites"
+            android:icon="@android:drawable/ic_menu_save"/>
+    </group>
+</menu>
